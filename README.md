@@ -19,7 +19,7 @@ Then enable the mod in SYSTEM > MODS > twitch-plays-norns
 The bridge connects to Twitch IRC and forwards commands to norns via OSC.
 
 ```bash
-# Get your OAuth token from https://twitchapps.com/tmi/
+# Get your OAuth token from [https://twitchtokengenerator.com/](https://twitchtokengenerator.com/)
 python bridge/twitch_bridge.py --channel YOUR_CHANNEL --token YOUR_TOKEN --norns-ip norns.local
 ```
 
