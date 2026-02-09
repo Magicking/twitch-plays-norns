@@ -6,6 +6,14 @@ A norns mod that enables "Twitch Plays" functionality - receive commands from Tw
 
 ### On norns
 
+#### Via Maiden Console
+
+```
+;install https://github.com/Magicking/twitch-plays-norns/archive/refs/tags/v1.0.0.zip
+```
+
+#### Via ssh
+
 Copy the mod to your norns dust folder:
 
 ```bash
